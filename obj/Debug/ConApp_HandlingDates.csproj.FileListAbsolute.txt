@@ -1,0 +1,8 @@
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_HandlingDates\bin\Debug\ConApp_HandlingDates.exe.config
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_HandlingDates\bin\Debug\ConApp_HandlingDates.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_HandlingDates\bin\Debug\ConApp_HandlingDates.pdb
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_HandlingDates\obj\Debug\ConApp_HandlingDates.csproj.AssemblyReference.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_HandlingDates\obj\Debug\ConApp_HandlingDates.csproj.SuggestedBindingRedirects.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_HandlingDates\obj\Debug\ConApp_HandlingDates.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_HandlingDates\obj\Debug\ConApp_HandlingDates.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_HandlingDates\obj\Debug\ConApp_HandlingDates.pdb
